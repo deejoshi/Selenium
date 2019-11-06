@@ -2,8 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/selenium-server-2.53.1.jar"/>
-	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/selenium-server-2.53.1-srcs.jar"/>
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/apache-mime4j-0.6.jar"/>
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/bcpkix-jdk15on-1.48.jar"/>
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/bcprov-jdk15on-1.48.jar"/>
@@ -46,5 +44,7 @@
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/snakeyaml-1.15.jar"/>
 	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/selenium-server-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium by Rohit/Day1/Software/WebDriver/selenium-server-2.53.1/selenium-2.53.1/selenium-server-2.53.1-srcs.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
